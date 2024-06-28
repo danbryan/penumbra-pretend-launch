@@ -1,6 +1,6 @@
 #!/bin/bash
 pd testnet generate \
---active-validator-limit 2 \
+--active-validator-limit 3 \
 --allocations-input-file "allocations.csv" \
 --validators-input-file "validators.json" \
 --chain-id "penumbra-pretend-2" \
