@@ -1,0 +1,26 @@
+[
+  {
+      "name": "BryanVentures",
+      "website": "https://github.com/danbryan",
+      "description": "🚀 BryanVentures | Uses an ultra secure DKG / Horcrux setup. We are expert validators, relayers, and chain launchers.",
+      "funding_streams": [
+          [
+              100,
+              "penumbra1zp4j64s3qskf9rmx8ptgl9t2c8gdy96hac2a5wczljqy3xnjht0ak2mwl5fe9nn77n3swptn799en467fn459y0krl95tysqplz82c4ulh5vl9g4np3au5m38jkqevkw76sumk"
+          ]
+      ],
+      "sequence_number": 0
+  },
+  {
+    "name": "WhisperNode",
+    "website": "https://github.com/Brendan-WhisperNode",
+    "description": "🚀 WhisperNode",
+    "funding_streams": [
+        [
+            100,
+            "penumbra125dgdjlgsh8a397de0x4vs9pe35prttj74uwzqsumj2fhh265yjg74tjr44akmny0q8eddaajwvdj6sq44h6aj7n23z8gfg9k0xljrp7x7t0nnsxjzxukz3rzst92w8hafncqc"
+        ]
+    ],
+    "sequence_number": 0
+}
+]
