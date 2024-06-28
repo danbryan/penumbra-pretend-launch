@@ -22,5 +22,17 @@
       ]
     ],
     "sequence_number": 0
+  },
+  {
+    "name": "L5",
+    "website": "https://lavenderfive.com",
+    "description": "Ready to Launch 🚀",
+    "funding_streams": [
+      [
+        100,
+        "penumbra1h99zfe346r030jv9lddrywg7fy4tzfcu4nc3zlvlzfpx5kfgng5d3eneshkvp270pj2c97twvz5k866g9rre85xn8nkde03pv0xrhq044znfka0z5t6ygmey3anpmdqap08pf7"
+      ]
+    ],
+    "sequence_number": 0
   }
 ]
