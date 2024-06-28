@@ -1,0 +1,244 @@
+{
+  "genesis_time": "2024-06-28T15:36:01Z",
+  "chain_id": "penumbra-pretend-2-x67ecb3fb",
+  "initial_height": "0",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "1048576",
+      "max_gas": "-1",
+      "time_iota_ms": "500"
+    },
+    "evidence": {
+      "max_age_num_blocks": "130000",
+      "max_age_duration": "650000000000000",
+      "max_bytes": "30000"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "abci": {}
+  },
+  "validators": [],
+  "app_hash": "",
+  "app_state": {
+    "genesisContent": {
+      "chainId": "penumbra-pretend-2-x67ecb3fb",
+      "stakeContent": {
+        "stakeParams": {
+          "activeValidatorLimit": "2",
+          "slashingPenaltyMisbehavior": "10000000",
+          "slashingPenaltyDowntime": "10000",
+          "signedBlocksWindowLen": "10000",
+          "missedBlocksMaximum": "9500",
+          "minValidatorStake": {
+            "lo": "1000000"
+          },
+          "unbondingDelay": "120960"
+        },
+        "validators": [
+          {
+            "identityKey": {
+              "ik": "IHPegivMEIXEHMIY3VixCaKXU59YSbeDuty9iwgpOgM="
+            },
+            "consensusKey": "bU2gZj7vTyxX9okDzneRwi7zmsqtvc8uSi7naiALVpc=",
+            "name": "BryanVentures",
+            "website": "https://github.com/danbryan",
+            "description": "🚀 BryanVentures | Uses an ultra secure DKG / Horcrux setup. We are expert validators, relayers, and chain launchers.",
+            "enabled": true,
+            "fundingStreams": [
+              {
+                "toAddress": {
+                  "address": "penumbra1zp4j64s3qskf9rmx8ptgl9t2c8gdy96hac2a5wczljqy3xnjht0ak2mwl5fe9nn77n3swptn799en467fn459y0krl95tysqplz82c4ulh5vl9g4np3au5m38jkqevkw76sumk",
+                  "rateBps": 100
+                }
+              }
+            ],
+            "governanceKey": {
+              "gk": "IHPegivMEIXEHMIY3VixCaKXU59YSbeDuty9iwgpOgM="
+            }
+          },
+          {
+            "identityKey": {
+              "ik": "zLFXqhZevWOTWST4P8auIw6/UK8F7lEK7qbhmKmx8Qo="
+            },
+            "consensusKey": "fzKa6wiWCfN5YDcAHHlcIc+khGagZckdnZdtTV08Pm4=",
+            "name": "WhisperNode",
+            "website": "https://github.com/Brendan-WhisperNode",
+            "description": "🚀 WhisperNode",
+            "enabled": true,
+            "fundingStreams": [
+              {
+                "toAddress": {
+                  "address": "penumbra125dgdjlgsh8a397de0x4vs9pe35prttj74uwzqsumj2fhh265yjg74tjr44akmny0q8eddaajwvdj6sq44h6aj7n23z8gfg9k0xljrp7x7t0nnsxjzxukz3rzst92w8hafncqc",
+                  "rateBps": 100
+                }
+              }
+            ],
+            "governanceKey": {
+              "gk": "zLFXqhZevWOTWST4P8auIw6/UK8F7lEK7qbhmKmx8Qo="
+            }
+          }
+        ]
+      },
+      "shieldedPoolContent": {
+        "shieldedPoolParams": {
+          "fmdMetaParams": {
+            "fmdGracePeriodBlocks": "16",
+            "fixedPrecisionBits": 0
+          }
+        },
+        "allocations": [
+          {
+            "amount": {
+              "lo": "10000000000000"
+            },
+            "denom": "upenumbra",
+            "address": {
+              "inner": "EGstVhEELJKPZjhWj5VqwdDSF1fuFdo7AvyASJpyut/bK279E5LOfvTjBwVz8UuZ115M60KR9h/LRZIAD8R1Yrz96M+VFZhj3lNxPKwMss4="
+            }
+          },
+          {
+            "amount": {
+              "lo": "10000000000000"
+            },
+            "denom": "delegation_penumbravalid1j3lscfpatlefp985xdj822ee0dmyaes25q3p5sl9zx026qvhugyqaex2rr",
+            "address": {
+              "inner": "EGstVhEELJKPZjhWj5VqwdDSF1fuFdo7AvyASJpyut/bK279E5LOfvTjBwVz8UuZ115M60KR9h/LRZIAD8R1Yrz96M+VFZhj3lNxPKwMss4="
+            }
+          },
+          {
+            "amount": {
+              "lo": "10000000000000"
+            },
+            "denom": "upenumbra",
+            "address": {
+              "inner": "VRqGy+iFz9iXzcvNVkChzGgRrXL1eOECHNyUm91aoSSPVXIda9tuZHgPlre9k5jZagCtb67L01REdCUFs835DD43lvnOBpCNywojFBZVOPc="
+            }
+          },
+          {
+            "amount": {
+              "lo": "10000000000000"
+            },
+            "denom": "delegation_penumbravalid1qjq0q8fuc5depvgkqcmdc0hwun97fjecg4gfcjpvuqh4j73xcyqsnfkf29",
+            "address": {
+              "inner": "VRqGy+iFz9iXzcvNVkChzGgRrXL1eOECHNyUm91aoSSPVXIda9tuZHgPlre9k5jZagCtb67L01REdCUFs835DD43lvnOBpCNywojFBZVOPc="
+            }
+          },
+          {
+            "amount": {
+              "lo": "25000000000"
+            },
+            "denom": "udelegation_penumbravalid1ypeaaq3tesggt3qucgvd6k93px3fw5ultpym0qa6mj7ckzpf8gpsxxkalz",
+            "address": {
+              "inner": "hIeGh2CeQz5hTSc18M6RCurIdzgfnYDhAJW6CmzawE3AmLIoAf2vA+9EuYd0wlmg8QYImtSA96J2fpJrmfwPIg4dhwZ7gvUwECIfAHQYFBo="
+            }
+          },
+          {
+            "amount": {
+              "lo": "25000000000"
+            },
+            "denom": "udelegation_penumbravalid1ejc402skt67k8y6eynurl34wyv8t7590qhh9zzhw5mse32d37y9qzvjzsf",
+            "address": {
+              "inner": "JEntV4PKO2ZuhsYY/3sIf7iRim+SA49g4R3cHm5p/+DZ5cltfCbs/ghTg/A/hfDrfk0l0uNUAKDZdMo+RsoB8IY9UuFI74AV+Q67MjY8i34="
+            }
+          }
+        ]
+      },
+      "governanceContent": {
+        "governanceParams": {
+          "proposalVotingBlocks": "17280",
+          "proposalDepositAmount": {
+            "lo": "10000000"
+          },
+          "proposalValidQuorum": "40/100",
+          "proposalPassThreshold": "50/100",
+          "proposalSlashThreshold": "80/100"
+        }
+      },
+      "ibcContent": {
+        "ibcParams": {
+          "ibcEnabled": true,
+          "inboundIcs20TransfersEnabled": true,
+          "outboundIcs20TransfersEnabled": true
+        }
+      },
+      "sctContent": {
+        "sctParams": {
+          "epochDuration": "3"
+        }
+      },
+      "communityPoolContent": {
+        "communityPoolParams": {
+          "communityPoolSpendProposalsEnabled": true
+        },
+        "initialBalance": {
+          "amount": {},
+          "assetId": {
+            "inner": "KeqcLzNx9qSH5+lcJHBB9KNW+YPrBk5dKzvPMiypahA="
+          }
+        }
+      },
+      "feeContent": {
+        "feeParams": {
+          "fixedGasPrices": {},
+          "fixedAltGasPrices": [
+            {
+              "assetId": {
+                "inner": "HW2Eq3UZVSBttoUwUi/MUtE7rr2UU7/UH500byp7OAc="
+              }
+            },
+            {
+              "assetId": {
+                "inner": "nwPDkQq3OvLnBwGTD+nmv1Ifb2GEmFCgNHrU++9BsRE="
+              }
+            }
+          ]
+        }
+      },
+      "distributionsContent": {
+        "distributionsParams": {
+          "stakingIssuancePerBlock": "1"
+        }
+      },
+      "fundingContent": {
+        "fundingParams": {}
+      },
+      "dexContent": {
+        "dexParams": {
+          "isEnabled": true,
+          "fixedCandidates": [
+            {
+              "inner": "KeqcLzNx9qSH5+lcJHBB9KNW+YPrBk5dKzvPMiypahA="
+            },
+            {
+              "inner": "reum7wQmk/owgvGMWMZn/6RFPV24zIKq3W6In/WwZgg="
+            },
+            {
+              "inner": "HW2Eq3UZVSBttoUwUi/MUtE7rr2UU7/UH500byp7OAc="
+            },
+            {
+              "inner": "nwPDkQq3OvLnBwGTD+nmv1Ifb2GEmFCgNHrU++9BsRE="
+            },
+            {
+              "inner": "ypUT1AOtjfwMOKMATACoD9RSvi8jY/YnYGi46CZ/6Q8="
+            },
+            {
+              "inner": "pmpygqUf4DL+z849rGPpudpdK/+FAv8qQ01U2C73kAw="
+            },
+            {
+              "inner": "o2gZdbhCH70Ry+7iBhkSeHC/PB1LZhgkn7LHC2kEhQc="
+            }
+          ],
+          "maxHops": 4,
+          "maxPositionsPerPair": 1000,
+          "maxExecutionBudget": 64
+        }
+      },
+      "auctionContent": {
+        "params": {}
+      }
+    }
+  }
+}
