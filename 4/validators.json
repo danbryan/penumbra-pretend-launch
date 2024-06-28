@@ -1,0 +1,50 @@
+[
+  {
+      "name": "BryanVentures",
+      "website": "https://github.com/danbryan",
+      "description": "🚀 BryanVentures | Uses an ultra secure DKG / Horcrux setup. We are expert validators, relayers, and chain launchers.",
+      "funding_streams": [
+          [
+              100,
+              "penumbra1zp4j64s3qskf9rmx8ptgl9t2c8gdy96hac2a5wczljqy3xnjht0ak2mwl5fe9nn77n3swptn799en467fn459y0krl95tysqplz82c4ulh5vl9g4np3au5m38jkqevkw76sumk"
+          ]
+      ],
+      "sequence_number": 0
+  },
+  {
+    "name": "WhisperNode",
+    "website": "https://github.com/Brendan-WhisperNode",
+    "description": "🚀 WhisperNode",
+    "funding_streams": [
+        [
+            100,
+            "penumbra125dgdjlgsh8a397de0x4vs9pe35prttj74uwzqsumj2fhh265yjg74tjr44akmny0q8eddaajwvdj6sq44h6aj7n23z8gfg9k0xljrp7x7t0nnsxjzxukz3rzst92w8hafncqc"
+        ]
+    ],
+    "sequence_number": 0
+  },
+  {
+    "name": "MediumSteak",
+    "website": "https://MediumSteak.com",
+    "description": "MediumSteak.com is a professional validator on PoS blockchains. 🚀 ready to launch",
+    "funding_streams": [
+      [
+        100,
+        "penumbra19yqryxum4ph3mun9nttral6s3xhn3jhupq2xt8v6ry9ardg6rhqp562t90qmzfndxry82qtvwxqvqm5vxh0m9hekcsac4yt5usn84vvdjheghvkteymd0h6gffrhjfman5s9qq"
+      ]
+    ],
+    "sequence_number": 0
+  }
+  {
+    "name": "Anatolian Team",
+    "website": "https://anatolianteam.com",
+    "description": "Ready to Launch 🚀 - Always forward with the Anatolian Team 🐆",
+    "funding_streams": [
+      [
+        100,
+        "penumbra17u9s74vp6kvv37xslkvjwc6ps3qglw0r0fc8culjfcl0ky6qrzsvsvlgvp94nnmznfd8xy0cx3uthhtp4f4zg2zs7d8t7pyr2cx6npmuapleekcfrjvxl3y7elqzzu3ynk7vnm"
+      ]
+    ],
+    "sequence_number": 0
+  }
+]
